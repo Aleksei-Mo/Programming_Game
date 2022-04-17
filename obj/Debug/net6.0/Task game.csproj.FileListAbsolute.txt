@@ -1,0 +1,15 @@
+F:\Geekbrains\Programming\Homework\Task game\obj\Debug\net6.0\Task game.csproj.AssemblyReference.cache
+F:\Geekbrains\Programming\Homework\Task game\obj\Debug\net6.0\Task game.GeneratedMSBuildEditorConfig.editorconfig
+F:\Geekbrains\Programming\Homework\Task game\obj\Debug\net6.0\Task game.AssemblyInfoInputs.cache
+F:\Geekbrains\Programming\Homework\Task game\obj\Debug\net6.0\Task game.AssemblyInfo.cs
+F:\Geekbrains\Programming\Homework\Task game\obj\Debug\net6.0\Task game.csproj.CoreCompileInputs.cache
+F:\Geekbrains\Programming\Homework\Task game\bin\Debug\net6.0\Task game.exe
+F:\Geekbrains\Programming\Homework\Task game\bin\Debug\net6.0\Task game.deps.json
+F:\Geekbrains\Programming\Homework\Task game\bin\Debug\net6.0\Task game.runtimeconfig.json
+F:\Geekbrains\Programming\Homework\Task game\bin\Debug\net6.0\Task game.dll
+F:\Geekbrains\Programming\Homework\Task game\bin\Debug\net6.0\Task game.pdb
+F:\Geekbrains\Programming\Homework\Task game\obj\Debug\net6.0\Task game.dll
+F:\Geekbrains\Programming\Homework\Task game\obj\Debug\net6.0\refint\Task game.dll
+F:\Geekbrains\Programming\Homework\Task game\obj\Debug\net6.0\Task game.pdb
+F:\Geekbrains\Programming\Homework\Task game\obj\Debug\net6.0\Task game.genruntimeconfig.cache
+F:\Geekbrains\Programming\Homework\Task game\obj\Debug\net6.0\ref\Task game.dll
