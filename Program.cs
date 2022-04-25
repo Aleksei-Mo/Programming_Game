@@ -58,17 +58,17 @@ int result=0;
 int min=0;
 int max=0;
 
-    if (diffLevel=="Beginner" ^ diffLevel=="beginner")
+    if (diffLevel=="Beginner" || diffLevel=="beginner")
     {
       min=0;
       max=21;
     }
-    else if (diffLevel=="Master" ^ diffLevel=="master")
+    else if (diffLevel=="Master" || diffLevel=="master")
     {
       min=0;
       max=51;
     }
-    else if (diffLevel=="Ultra profi" ^ diffLevel=="ultra profi")
+    else if (diffLevel=="Ultra profi" || diffLevel=="ultra profi")
     {
       min=0;
       max=101;
